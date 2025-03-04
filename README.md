@@ -1,6 +1,6 @@
 <p>Project Description</p>
 <b>This is a bold text</b>
 <p>Unordered List</p>
-<ol>
+<ul>
   <li>List</li>
-</ol>
+</ul>
